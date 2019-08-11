@@ -33,5 +33,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://jasonkeung.me/feedback-form-frontend"
+  "homepage": "http://jasonkeung.me/feedback-form-frontend",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
