@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/feedback-form-frontend/static/css/main.f973da19.chunk.css",
+    "main.js": "/feedback-form-frontend/static/js/main.a7a32641.chunk.js",
+    "main.js.map": "/feedback-form-frontend/static/js/main.a7a32641.chunk.js.map",
+    "runtime~main.js": "/feedback-form-frontend/static/js/runtime~main.a7337f1f.js",
+    "runtime~main.js.map": "/feedback-form-frontend/static/js/runtime~main.a7337f1f.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/feedback-form-frontend/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.5db36e52.chunk.js": "/feedback-form-frontend/static/js/2.5db36e52.chunk.js",
+    "static/js/2.5db36e52.chunk.js.map": "/feedback-form-frontend/static/js/2.5db36e52.chunk.js.map",
+    "index.html": "/feedback-form-frontend/index.html",
+    "precache-manifest.736b840872565c4bcc4c70f8ba5d2e30.js": "/feedback-form-frontend/precache-manifest.736b840872565c4bcc4c70f8ba5d2e30.js",
+    "service-worker.js": "/feedback-form-frontend/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/feedback-form-frontend/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.f973da19.chunk.css.map": "/feedback-form-frontend/static/css/main.f973da19.chunk.css.map"
+  }
+}
