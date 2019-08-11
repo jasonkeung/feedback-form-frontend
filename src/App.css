@@ -2,6 +2,7 @@
   text-align: center;
   background-image: linear-gradient(to right, #2a2a2a, #191919);
   height: 100vh;
-  padding: auto;
+  padding-left: auto;
+  padding-right: auto;
   padding-top: 10%;
 }
