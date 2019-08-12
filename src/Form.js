@@ -42,7 +42,7 @@ class Form extends React.Component{
       formData.set('message', message)
       axios({
         method: 'post',
-        url: 'https://52.15.184.142:80/feedback',
+        url: 'http://52.15.184.142:80/feedback',
         data: formData
       })
       .then(function(response) {

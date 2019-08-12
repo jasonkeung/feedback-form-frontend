@@ -19,6 +19,10 @@
   border: none;
 }
 
+.form-submit:hover, .form-submit:focus, .form-submit.focus {
+  background-color: #9c57d8 !important;
+}
+
 .char-counter {
   height: 11;
   position: absolute;
