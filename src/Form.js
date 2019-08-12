@@ -109,8 +109,9 @@ class Form extends React.Component{
           </TextWithCounter><br />
           <button 
             type="submit" 
-            className={"btn btn-primary"} 
-            onClick={this.handleSubmit}>
+            className={"btn btn-primary btn-block btn-lg form-submit"} 
+            onClick={this.handleSubmit}
+            color="#bb8ce5">
             Submit
           </button>
         </div>

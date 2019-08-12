@@ -14,6 +14,11 @@
   font-size: 4vh;
 }
 
+.form-submit {
+  background-color: #bb8ce5;
+  border: none;
+}
+
 .char-counter {
   height: 11;
   position: absolute;
